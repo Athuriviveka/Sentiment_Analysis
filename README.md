@@ -7,6 +7,7 @@ This project aims to classify the sentiment of tweets as positive, neutral, or n
 The dataset used for this project is sourced from Kaggle:
 
 Sentiment Analysis Dataset by Abhishek Shrivastava, 11/21/2020.
+- [Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset)
 
 ## Tools and Technologies
 Python: Programming language used for data processing and model training.  
